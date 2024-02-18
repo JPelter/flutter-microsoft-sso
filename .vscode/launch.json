@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "msft_sso_app",
+            "cwd": "msft_sso_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "msft_sso_app (profile mode)",
+            "cwd": "msft_sso_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "msft_sso_app (release mode)",
+            "cwd": "msft_sso_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
